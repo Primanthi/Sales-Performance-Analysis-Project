@@ -19,11 +19,11 @@ The project was designed to analyze transactional sales data, uncover key busine
 
 ### Home Page
 
-![Pizza Sales Dashboard - Home Page](screenshots/home.png)
+![Pizza Sales Dashboard - Home Page](Screenshots/home.png)
 
 ### Best/Worst Sellers
 
-![Pizza Sales Dashboard - Best/Worst Sellers](screenshots/sellers.png)
+![Pizza Sales Dashboard - Best/Worst Sellers](Screenshots/sellers.png)
 
 ## Problem Statement
 
